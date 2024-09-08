@@ -28,6 +28,10 @@ I'm always exploring new technologies and love solving complex problems.
 - **Scope**: The script handled hierarchical and library-wise porting, including symbol management, parameter adjustments, and cell porting.
 - **Technologies used**: Cadence Virtuoso IC 6.1.8, Skill scripting.
 
+### Custom Kernel Development for Android  
+- **Project**: Developed custom kernels for Android devices, merging the latest Qualcomm CAF patches and Linux upstream.  
+- **Scope**: Provided aftermarket custom kernels to the Android community, enhancing performance and stability for various devices.
+
 ---
 
 ## Contact Me  
