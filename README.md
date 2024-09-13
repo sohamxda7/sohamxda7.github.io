@@ -24,7 +24,7 @@ I'm always exploring new technologies and love solving complex problems.
 
 ## Projects  
 ### Schematic and Layout Porting Program  
-- **Project**: Created a script that ports schematics and layouts from TSMC22nm to UMC22nm.  
+- **Project**: Created a script for a client that ports schematics and layouts from TSMC22nm to UMC22nm.  
 - **Scope**: The script handled hierarchical and library-wise porting, including symbol management, parameter adjustments, and cell porting.
 - **Technologies used**: Cadence Virtuoso IC 6.1.8, Skill scripting.
 
