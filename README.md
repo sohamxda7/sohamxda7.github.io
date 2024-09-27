@@ -31,16 +31,16 @@ I'm passionate about exploring cutting-edge technologies and solving complex pro
 ### Schematic and Layout Porting Program  
 - **Project**: Created a custom VLSI porting script for migrating schematics and layouts from TSMC22nm to UMC22nm.  
 - **Scope**: Automated hierarchical and library-wise porting, managing symbols, adjusting parameters, and ensuring seamless cell migration.  
-- **Technologies used**: Cadence Virtuoso IC 6.1.8, Skill scripting.
-
-### Custom Kernel Development for Android  
-- **Project**: Developed custom kernels by merging Qualcomm CAF patches with the latest Linux upstream for Android devices.  
-- **Scope**: Provided high-performance, stable aftermarket kernels to the Android community, enhancing device performance and security.  
+- **Technologies used**: Cadence Virtuoso IC 6.1.8, Skill scripting. 
 
 ### Secure License Server Deployment Using SSH and Remote Forwarding  
 - **Project**: Set up a secure license server, allowing multiple software clients to access it via an Amazon EC2 instance.  
 - **Scope**: Used SSH tunneling to enable clients to securely connect to the license server hosted on an EC2 instance without directly accessing the system. This maintained control over network traffic while ensuring smooth software licensing.  
 - **Technologies used**: Amazon EC2, SSH remote forwarding, Linux networking.
+
+### Custom Kernel Development for Android  
+- **Project**: Developed custom kernels by merging Qualcomm CAF patches with the latest Linux upstream for Android devices.  
+- **Scope**: Provided high-performance, stable aftermarket kernels to the Android community, enhancing device performance and security. 
 
 ---  
 
