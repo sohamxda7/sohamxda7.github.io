@@ -1,5 +1,5 @@
 # Soham Sen  
-**Full-Stack Scripting Specialist | Server Management & Security | Linux System Administrator**  
+**Full-Stack Scripting Specialist | VLSI Automation | Server Management & Security | Linux System Administrator**  
 
 Welcome to my portfolio! I’m a passionate tech enthusiast with professional expertise in VLSI scripting (Cadence Skill, TCL), server management, IT support, and Linux system administration. My work involves automating workflows, enhancing server security, and deploying efficient solutions across various systems.
 
@@ -8,7 +8,7 @@ Welcome to my portfolio! I’m a passionate tech enthusiast with professional ex
 ## About Me  
 I began my career in analog layout, working with Cadence Virtuoso IC 6.1.7, 6.1.8, and StabieSoft Slam. After six months, I transitioned into VLSI scripting, focusing on Cadence Skill and TCL, while expanding my role in server management and Linux system administration. Currently, I work full-time as a Cadence Skill scripter, server manager, and Linux system administrator at my company.
 
-I automate complex processes for layout and schematic design using Cadence Skill scripting, optimizing efficiency for layout designers. I’m also deeply involved in managing servers, securing infrastructures, and deploying solutions that ensure stability and performance across networks. My expertise in backend scripting, GUI development, and networking allows me to deliver high-impact tools and services that streamline workflows and enhance security.
+I automate complex processes for layout and schematic design using Cadence Skill scripting, optimizing efficiency for layout designers. I’m also involved in managing servers, securing infrastructures, and deploying solutions that ensure stability and performance across networks.
 
 ---
 
@@ -33,7 +33,7 @@ I automate complex processes for layout and schematic design using Cadence Skill
 ### License Server Management Using Secure SSH Infrastructure  
 - **Project**: Managed secure access to a license server hosted on an Amazon EC2 instance.  
 - **Scope**: Used SSH remote and local forwarding to provide clients with controlled access to software licenses via the EC2 server, ensuring that license access remained secure without exposing direct access to the main system.  
-- **Technologies used**: Amazon EC2, SSH, VPN, secure port forwarding, Linux server management.
+- **Technologies used**: Amazon EC2, SSH, secure port forwarding, Linux server management.
 
 ---
 
