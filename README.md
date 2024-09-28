@@ -26,14 +26,14 @@ I automate complex processes for layout and schematic design using Cadence Skill
 - **Scope**: Automated hierarchical and library-wise porting, including symbol management, parameter adjustments, and cell porting to ensure seamless transition across process nodes.  
 - **Technologies used**: Cadence Virtuoso IC 6.1.8, Skill scripting.
 
-### Custom Kernel Development for Android  
-- **Project**: Created custom kernels for Android devices, integrating Qualcomm CAF patches and Linux upstream.  
-- **Scope**: Enhanced device performance and stability by delivering aftermarket custom kernels to the Android community.
-
 ### License Server Management Using Secure SSH Infrastructure  
 - **Project**: Managed secure access to a license server hosted on an Amazon EC2 instance.  
 - **Scope**: Used SSH remote and local forwarding to provide clients with controlled access to software licenses via the EC2 server, ensuring that license access remained secure without exposing direct access to the main system.  
 - **Technologies used**: Amazon EC2, SSH, secure port forwarding, Linux server management.
+
+### Custom Kernel Development for Android  
+- **Project**: Created custom kernels for Android devices, integrating Qualcomm CAF patches and Linux upstream.  
+- **Scope**: Enhanced device performance and stability by delivering aftermarket custom kernels to the Android community.
 
 ---
 
