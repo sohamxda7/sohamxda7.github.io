@@ -1,9 +1,9 @@
 # Soham Sen  
-**Cadence SKILL Scripting Specialist | Layout & Schematic Automation | Server Management & Automation | Linux System Administrator & Networking**  
+**Cadence SKILL Scripter | Layout & Schematic Automation | Server Management & Security | Linux System Administrator & Networking**  
 ---
 
 ## About Me  
-Experienced in Cadence SKILL Scripting & Automation, Linux Server Management & Automation, Networking & System Administration
+Experienced in Cadence SKILL Scripting & Automation, Linux Server Management & Security, Networking & System Administration
 ---
 
 ## Skills  
