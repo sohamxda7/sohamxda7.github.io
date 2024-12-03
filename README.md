@@ -1,15 +1,9 @@
 # Soham Sen  
-**Full-Stack Scripting Specialist | VLSI Automation | Server Management & Security | Linux System Administrator**  
-
-Welcome to my portfolio! I’m a passionate tech enthusiast with professional expertise in VLSI scripting (Cadence Skill, TCL), server management, IT support, and Linux system administration. My work involves automating workflows, enhancing server security, and deploying efficient solutions across various systems.
-
+**Cadence SKILL Scripting Specialist | Layout & Schematic Automation | Server Management & Automation | Linux System Administrator & Networking**  
 ---
 
 ## About Me  
-I began my career in analog layout, working with Cadence Virtuoso IC 6.1.7, 6.1.8, and StabieSoft Slam. After six months, I transitioned into VLSI scripting, focusing on Cadence Skill and TCL, while expanding my role in server management and Linux system administration. Currently, I work full-time as a Cadence Skill scripter, server manager, and Linux system administrator at my company.
-
-I automate complex processes for layout and schematic design using Cadence Skill scripting, optimizing efficiency for layout designers. I’m also involved in managing servers, securing infrastructures, and deploying solutions that ensure stability and performance across networks.
-
+Experienced in Cadence SKILL Scripting & Automation, Linux Server Management & Automation, Networking & System Administration
 ---
 
 ## Skills  
@@ -43,5 +37,3 @@ I automate complex processes for layout and schematic design using Cadence Skill
 - **LinkedIn**: [sohamsen135](https://www.linkedin.com/in/sohamsen135)
 
 ---
-
-Thanks for visiting my portfolio!
