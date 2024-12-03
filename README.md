@@ -4,7 +4,9 @@
 ---
 
 ## About Me  
-Experienced in Cadence SKILL Scripting & Automation, Linux Server Management & Security, Networking & System Administration
+Experienced in Cadence SKILL Scripting & Automation, Linux Server Management & Security, Networking & System Administration.
+Experienced in Tools such as Cadence Virtuoso IC 6.1.8, 6.1.7, ICADVM20.1, Virtuoso Studio IC 23.1, Stabie-Soft SLAM, Synopsys Custom Compiler.
+
 ---
 
 ## Skills  
