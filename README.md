@@ -1,5 +1,5 @@
 # Soham Sen  
-**Cadence SKILL Scripter | Layout & Schematic Automation | Server Management & Security | Linux System Administrator & Networking**  
+**Cadence SKILL Scripter | Layout & Schematic Automation | Server Management & Security | Linux System Administration & Networking**  
 
 ---
 
