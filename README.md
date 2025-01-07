@@ -1,11 +1,10 @@
 # Soham Sen  
-**Cadence SKILL Scripter | Layout & Schematic Automation | Server Management & Security | Linux System Administration & Networking**  
+**Cadence SKILL Scripting | Layout and Schematic Automation | Server Management and Security | Linux System Administration and Networking**  
 
 ---
 
 ## About Me  
-Experienced in Cadence SKILL Scripting & Automation, Linux Server Management & Security, Networking & System Administration.
-Experienced in Tools such as Cadence Virtuoso IC 6.1.8, 6.1.7, ICADVM20.1, Virtuoso Studio IC 23.1, Stabie-Soft SLAM, Synopsys Custom Compiler.
+Experienced in Cadence SKILL Scripting, Layout and Schematic Automation, Linux Server Management and Linux System Administration. Proficient with tools including Cadence Virtuoso IC 6.1.8, 6.1.7, ICADVM20.1, Virtuoso Studio IC 23.1, Stabie-Soft SLAM, and Synopsys Custom Compiler.
 
 ---
 
