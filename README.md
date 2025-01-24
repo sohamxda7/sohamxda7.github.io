@@ -4,7 +4,7 @@
 ---
 
 ## About Me  
-Experienced in Cadence SKILL Scripting, Layout and Schematic Automation, Linux Server Management and Linux System Administration. Proficient with tools including Cadence Virtuoso IC 6.1.8, 6.1.7, ICADVM20.1, Virtuoso Studio IC 23.1, Stabie-Soft SLAM, and Synopsys Custom Compiler.
+Industry Experienced and Proficient in Cadence SKILL Scripting, Layout and Schematic Automation, Linux Server Management and Linux System Administration. Proficient with tools including Cadence Virtuoso IC 6.1.8, 6.1.7, ICADVM20.1, Virtuoso Studio IC 23.1, Stabie-Soft SLAM, and Synopsys Custom Compiler.
 
 ---
 
